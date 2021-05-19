@@ -1,2 +1,2 @@
-# selectedNotebooks
-Selected notebooks not to miss some research I have done
+# Selected Jupyter Notebooks
+Want to store some of my research notebooks so I can refer to them in any time.
